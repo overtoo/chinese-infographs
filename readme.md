@@ -21,9 +21,6 @@ Here's a table with the two words, their common translations, the concepts they 
 | Example 4 | 工作的熱情 (Passion for work) | 熱烈的歡迎 (Warm welcome) |
 
 
-
-Sure, let's analyze the pairs 9, 17, and 20:
-
 **9. "结束" (jié shù) vs "完成" (wán chéng)**
 
 "结束" generally means "to end" or "to finish," often referring to the conclusion of an event or process. "完成," on the other hand, translates to "to complete" or "to accomplish," typically used when a task or duty has been fully realized.

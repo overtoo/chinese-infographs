@@ -21,7 +21,7 @@ Here's a table with the two words, their common translations, the concepts they 
 | Example 4 | 工作的熱情 (Passion for work) | 熱烈的歡迎 (Warm welcome) |
 
 
-**9. "结束" (jié shù) vs "完成" (wán chéng)**
+**3. "结束" (jié shù) vs "完成" (wán chéng)**
 
 "结束" generally means "to end" or "to finish," often referring to the conclusion of an event or process. "完成," on the other hand, translates to "to complete" or "to accomplish," typically used when a task or duty has been fully realized.
 
@@ -29,8 +29,10 @@ Here's a table with the two words, their common translations, the concepts they 
 |-----------------|----------------------------|-----------------------------|
 | Translation | End | Complete |
 | Often Refers to | Conclusion of an event or process | Accomplishment of a task or duty |
-| Example 1 | 这次会议已经结束。 (This meeting has ended.) | 他已经完成了作业。 (He has completed the homework.) |
-| Example 2 | 演唱会结束了。 (The concert has ended.) | 我已经完成了报告。 (I have completed the report.) |
+| Example 1 | 会议结束 (The meeting ends) | 完成作业 (Complete the homework) |
+| Example 2 | 演唱会结束 (The concert ends) | 完成报告 (Complete the report) |
+| Example 3 | 比赛结束 (The game ends) | 完成项目 (Complete the project) |
+| Example 4 | 电影结束 (The movie ends) | 完成任务 (Complete the task) |
 
 **17. "建议" (jiàn yì) vs "推荐" (tuī jiàn)**
 
